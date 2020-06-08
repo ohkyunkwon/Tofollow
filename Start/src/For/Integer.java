@@ -21,4 +21,9 @@ public class Integer {
 
 	}
 
+	public static int parseInt(String string) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
