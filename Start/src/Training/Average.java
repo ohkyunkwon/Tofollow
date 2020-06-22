@@ -19,8 +19,8 @@ public class Average {
 			 
 			 if(a[i]<40) {
 				 a[i]=40;
-			 }
 			 result = result+a[i];
+			 }
 		 }
 		 int b = result/5;
 		 System.out.println(b);

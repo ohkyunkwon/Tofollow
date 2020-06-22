@@ -30,7 +30,6 @@ public class PlusCycle {
 			twoTemp = two;
 			two = (one + two) % 10;
 			one = twoTemp;
-			
 			if(n == one*10 + two) {
 				break;
 			}
